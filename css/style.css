@@ -1,0 +1,50 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+
+.searchs input{
+ padding-left: 30px;
+ font-size: 20px;
+ background-color:aqua;
+}
+.searchs i{
+     top: 30px;
+    font-size: 20px;
+}
+.card img:hover {
+    height: 142px;
+
+}
+h4{
+    color: rgb(57, 122, 122);
+    font-size:larger;
+
+}
+.para{
+    font-size: small;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+     color: rgb(57, 122, 122);
+}
+.footer-top-left p{
+    color: aqua;
+}
+.footer-top-left a{
+    
+    text-decoration:none;
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    font-weight: 400;
+    font-family:'Lucida Sans','Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.footer-top-right p{
+    color: aqua;
+}
+.footer-top-right a{
+    color: white;
+    font-weight: 400;
+    text-decoration: none;
+    font-size: 14px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
